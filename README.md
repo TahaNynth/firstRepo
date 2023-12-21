@@ -1,3 +1,4 @@
+This is a short report on our 1st end semester project, which was a presentation on the cyber security threat, Buffer overflow attack. A significant portion of the presentation was dedicated to a step-by-step demonstration of a simple stack-based buffer overflow attack. The demo showcased the following steps:
 # Overview:
 This report provides a concise overview on the topic of mitigating stack-based buffer overflow attacks. The presentation, delivered by Hoor Ul Ain Soomro delves into the nature of buffer overflow attacks, their real-world implications, and various strategies to prevent and defend against them.
 # Buffer Overflow Attacks: 
